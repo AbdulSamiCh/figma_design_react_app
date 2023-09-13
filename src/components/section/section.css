@@ -1,0 +1,16 @@
+.consult {
+    color: #F54C1E;
+}
+
+.but-n {
+    color: white;
+    border: none;
+    border-radius: 2px;
+    background: #F54C1E;
+}
+
+@media only screen and (max-width: 768px) {
+    .margbottom {
+      margin-bottom: 30px;
+    }
+  }

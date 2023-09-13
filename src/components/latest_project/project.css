@@ -1,0 +1,58 @@
+.famil {
+  font-family: "poppins";
+  font-weight: 500;
+}
+
+.fonts {
+  font-family: "poppins";
+  font-weight: 600;
+}
+
+.phone {
+  background-image: url("../../assets/svgs/ManOnPhoneCall.svg");
+  background-repeat: no-repeat;
+}
+
+.poppins {
+  font-family: "poppins";
+  font-weight: 600;
+}
+
+.Two {
+  background-image: url("../../assets/svgs/two_people.svg");
+  background-repeat: no-repeat;
+}
+
+.Laptop {
+  background-image: url("../../assets/svgs/Laptop_pic.svg");
+  background-repeat: no-repeat;
+}
+
+.OperatingLaptop {
+  background-image: url("../../assets/svgs/Man_operating_laptop.svg");
+  background-repeat: no-repeat;
+}
+
+.backgroundImage {
+  background-image: url("../../assets/svgs/Background_Image.svg");
+  background-repeat: no-repeat;
+}
+
+.fonfamily {
+  font-family: "poppins";
+  font-weight: 700;
+}
+
+.colour {
+  background-color: #031333b2;
+  width: 100%;
+}
+
+.orange {
+  border: none;
+  background: #f54c1e;
+  height: 60px;
+  width: 200px;
+  border-radius: 2px;
+}
+

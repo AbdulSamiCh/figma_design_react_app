@@ -1,0 +1,14 @@
+@media only screen and (max-width:768px) {
+    .hide {
+        display: none;
+    }
+}
+
+.colo {
+    background-color: #F3F3F3;
+}
+
+.fontsfam {
+    font-family: 'poppins';
+    font-weight: 600;
+}

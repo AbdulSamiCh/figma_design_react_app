@@ -1,0 +1,21 @@
+.bg-col {
+    background: #031333;
+}
+
+h4 {
+    color: #F54C1E;;
+}
+
+.services {
+    color: #F54C1E;
+}
+
+.image {
+    background-image: url("../../assets/svgs/Rectangle\ 5.svg");
+    background-repeat: no-repeat;
+}
+
+.image1 {
+    background-image: url("../../assets/svgs/Rectangle\ 6.svg");
+    background-repeat: no-repeat;
+}

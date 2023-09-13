@@ -1,0 +1,17 @@
+.backColor {
+    background: #031333;
+}
+
+.margleft {
+    margin-left: 120px;
+}
+
+.margle {
+    margin-left: 150px;
+}
+
+@media only screen and (max-width:768px) {
+    .margle {
+        margin-left: 40px;
+    }
+}
